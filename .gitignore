@@ -1,0 +1,11 @@
+# .gitignore
+.env
+__pycache__/
+*.pyc
+.DS_Store
+chroma_db/
+data/
+*.pdf
+venv/
+.venv/
+*.egg-info/
